@@ -16,6 +16,7 @@
   Hello there
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100px"/>
 </h1>
+I'm Tarik, a developer from Germany :de:!
 
 ### About me
 
