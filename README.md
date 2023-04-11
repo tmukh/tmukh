@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tFGBovr5CtfWt7MtqK/giphy.gif" width="100"/>
 <div id="badges">
@@ -171,5 +172,6 @@ I'm Tarik, a developer from Germany :de:!
         height="40" /> </a> 
 
 </p>
+<img src="https://img.shields.io/github/last-commit/tmukh/tmukh?color=blue">
 
 
