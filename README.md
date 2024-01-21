@@ -25,7 +25,7 @@ I'm Tarik, a developer from Germany :de:!
 - I'm currently trying to become a Full Stack Developer and find my footing in the IT world with a Software Engineering job
 - I am mostly interested in behind the scenes stuff, which is where my love for backend developement is from.
 - I am a book worm 📚, you can see a list of my current and planned books here: <a href="https://www.goodreads.com/user/show/154602339-tarik"> <img src= "https://img.shields.io/badge/G-My%20goodreads-yellowgreen" width="80px" alt="Join me in reading!"> </a>
-- Fun fact: I can solve a Rubik's cube in 11.23 seconds
+- Fun fact: I can solve a Rubik's cube in 10.23 seconds
 - 📫 How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tarik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-abu-mukh-753779231)
 
 <h3 align="left">Connect with me:</h3>
@@ -35,15 +35,6 @@ I'm Tarik, a developer from Germany :de:!
  </a>
  <a href="https://linkedin.com/in/tarik-abu-mukh-753779231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik-abu-mukh-753779231" height="30" width="40" /></a>
 </p>
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tmukh&show_icons=true&locale=en&layout=compact"
-        alt="tmukh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmukh&show_icons=true&locale=en"
-        alt="tmukh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmukh&" alt="tmukh" /></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left"> Learned: </h3>
@@ -146,10 +137,7 @@ I'm Tarik, a developer from Germany :de:!
   </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
-</a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="40" height="40" /> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+<a
     href="https://golang.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
         height="40" /> </a>  <a href="https://www.jenkins.io" target="_blank"
@@ -164,9 +152,7 @@ I'm Tarik, a developer from Germany :de:!
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-        alt="ruby" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" /> </a>  <a
+        alt="ruby" width="40" height="40" /> </a>  <a
     href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" /> </a> 
