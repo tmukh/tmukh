@@ -26,6 +26,7 @@ I'm Tarik, a developer from Germany :de:!
 - I am mostly interested in behind the scenes stuff, which is where my love for backend developement is from.
 - I am a book worm 📚, you can see a list of my current and planned books here: <a href="https://www.goodreads.com/user/show/154602339-tarik"> <img src= "https://img.shields.io/badge/G-My%20goodreads-yellowgreen" width="80px" alt="Join me in reading!"> </a>
 - Fun fact: I can solve a Rubik's cube in 10.23 seconds
+- I have a blog where I talk about nerdy stuff! https://cybersphere-446d1.web.app/
 - 📫 How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tarik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-abu-mukh-753779231)
 
 <h3 align="left">Connect with me:</h3>
