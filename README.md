@@ -22,9 +22,9 @@ I'm Tarik, a platform engineer from Germany :de:!
 ### About me
 
 - I build infrastructure and then run it in public <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="30px">
-- I'm heading for **DevOps / SRE**, with a side interest in actually *serving* models rather than just calling them
-- I still love the behind-the-scenes stuff — it's just that "behind the scenes" now means clusters, GitOps and the question of why the graph went flat at 3am
-- Finishing my **M.Sc. Informatik at TU Berlin** (thesis done, one attendance colloquium to go). Before that, B.Sc. at RPTU Kaiserslautern
+- I'm heading for **DevOps / SRE**
+- I still love the behind-the-scenes stuff, "behind the scenes" now means clusters, GitOps and the question of why the graph went flat at 3am
+- **M.Sc. Informatik at TU Berlin**. Before that, B.Sc. at RPTU Kaiserslautern
 - Everything I build ends up at **[takodana.dev](https://takodana.dev)** — projects, build logs and write-ups
 - I am a book worm 📚, you can see a list of my current and planned books here: <a href="https://www.goodreads.com/user/show/154602339-tarik"> <img src= "https://img.shields.io/badge/G-My%20goodreads-yellowgreen" width="80px" alt="Join me in reading!"> </a>
 - Fun fact: I can solve a Rubik's cube in 10.23 seconds
@@ -33,8 +33,6 @@ I'm Tarik, a platform engineer from Germany :de:!
 ---
 
 ### 🔭 What I'm building
-
-Four repos, all public, all actually running. Links go to the live thing, not a screenshot.
 
 #### [glasswing](https://github.com/tmukh/glasswing) · [try it in your browser →](https://takodana.dev/projects/glasswing/)
 A small language model you can watch think.
